@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> This repository has been merged into [agent-toolkit](https://github.com/PaulRBerg/agent-toolkit)
+> (subdirectory `notify/`) and is archived. All development continues there.
+
 # ai-notify
 
 Desktop notification system for Claude Code and Codex CLI. It tracks Claude Code session activity and sends macOS
